@@ -19,3 +19,4 @@ function get_db_config(){
         ];
     }
 }
+
